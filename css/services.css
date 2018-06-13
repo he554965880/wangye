@@ -1,0 +1,46 @@
+
+
+
+h2,h3{
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-weight: 700;
+    line-height: 1.1em;
+    color: #333;
+    margin-bottom: 7px;
+}
+
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.6em;
+    color: #656565;
+}
+#content img {
+    max-width: 100%;
+    height: auto;
+    background-color: #F3F3F3;
+    padding: 2px;
+}
+.info-blocks {
+    margin-bottom: 15px;
+}
+
+.info-blocks .info-blocks-in {
+    padding: 0 10px;
+    overflow: hidden;
+}
+.info-blocks .info-blocks-in h3 {
+    color: #555;
+    font-size: 20px;
+    line-height: 28px;
+    margin: 0px;
+}
+h3 {
+    margin-bottom: 15px;
+}
+.info-blocks .info-blocks-in p {
+    font-size: 14px;
+}
+
+
